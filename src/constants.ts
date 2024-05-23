@@ -1,0 +1,1 @@
+export const ELIMINATION_INTERVAL = 500;

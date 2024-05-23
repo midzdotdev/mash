@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input {
+  background-color: transparent;
+  outline: none;
+}
+
+input:focus {
+  background-color: hsl(0, 0%, 100%, 50%);
+}
